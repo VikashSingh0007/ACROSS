@@ -1,0 +1,38 @@
+body{  margin-left: 500px;
+  margin-top: 150px;
+  margin-right: 500px;
+  margin-bottom: 150px;
+border: #4CAF50;
+border: groove;
+border-color: royalblue;
+}
+  
+.sign{
+    color: royalblue;
+    
+    font-size: larger;
+}
+
+.submit{
+   background-color: lightgreen;
+   color: lightblue;
+   border: 2px #4CAF50;
+   width: 40%;
+   font-size: medium;
+      
+
+}
+
+.submit:hover{
+  background-color: none;
+  color: white;
+  cursor: pointer;
+}
+
+.head{
+  color: royalblue;
+}
+
+create{
+  background-color: rgb(225, 215, 63);
+}
